@@ -1,0 +1,67 @@
+.nav-color{
+  background-color: #CE93D8;
+  margin-left: 420px;
+  margin-right: 180px;
+  margin-top: 120px;
+  width: 400px;
+}
+
+.text-white{
+  text-indent: -70%;
+}
+
+.items{
+  background-color: whitesmoke;
+  width: 400px;
+  margin-left: 420px;
+  margin-right: 180px;
+ 
+  text-indent:30%;
+  font-size: large;
+  height: auto;
+  padding-top: 0px;
+}
+
+.additem{
+  
+    width : 170px ;
+     height : 50px ;
+    font-size : 20px ;
+    font-family : lato ;
+    background-color : #CE93D8;
+    color : #fff ;
+    border : 1px solid ;
+    margin-top : 80px;
+    border-radius: 20px;
+    margin-left: -375px;
+}
+
+ .fa-plus{
+  font-size:15px;
+
+}
+
+.fa-circle-o{
+font-size: 10px
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+.input{
+  margin-left: 620px;
+  margin-top:-60px
+}
+
+.btn {
+
+  border: none;
+  color: white;
+  padding: 12px 30px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 330px;
+  margin-top: -60px;
+}
+
